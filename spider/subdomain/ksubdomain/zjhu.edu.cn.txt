@@ -1,0 +1,4 @@
+lxy.zjhu.edu.cn => 61.153.52.11
+smkxxy.zjhu.edu.cn => 61.153.52.11
+test2.zjhu.edu.cn => 61.153.52.12
+pay.zjhu.edu.cn => 61.153.52.77
